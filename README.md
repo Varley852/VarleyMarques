@@ -34,7 +34,7 @@
 
 ## 📫 Como me encontrar
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varleymarques852@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=varleymarques852@gmail.com)
 
 ---
 
